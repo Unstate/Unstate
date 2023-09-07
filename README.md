@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rofetisov@mail.ru**
 
-- 📄 Know about my experiences [https://ivanovo.hh.ru/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header](https://ivanovo.hh.ru/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header)
+- 📄 Know about my experiences https://ivanovo.hh.ru/resume/648fce89ff0bbbed720039ed1f485545486371
 
 - ⚡ Fun fact **🤝 I’m looking for job**
 
