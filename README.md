@@ -1,7 +1,9 @@
 # 💫 About Me:
-Currently working at AGIMA as a React Front-end Developer.
-Learning Back-end development with Rust.
-Studying Applied Informatics in the Information Sphere at ISPU.
+    Currently working at AGIMA as a React Front-end Developer.
+
+    Learning Back-end development with Rust.
+
+    Studying Applied Informatics in the Information Sphere at ISPU.
 
 
 # 💻 Tech Stack:
