@@ -3,7 +3,7 @@
 
     Learning Back-end development with Rust.
 
-    Studying Applied Informatics in the Information Sphere at ISPU.
+    Finished Applied Informatics in the Information Sphere at ISPU.
 
 
 # 💻 Tech Stack:
